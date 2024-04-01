@@ -30,7 +30,6 @@ class Mode1Navigator:
     def select_islands(self) -> list[tuple[Island, int]]:
         """
         Best/Worst Case O(n^2), where n is the number of islands.
-        :(
         """
         potenital_earnings_per_pirate = [(Island, min(Island.money, Island.money/Island.marines)) for Island in self.islands]
         selected_islands = []
