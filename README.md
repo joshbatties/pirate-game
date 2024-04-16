@@ -1,10 +1,10 @@
 # pirate-game
 Welcome to Pirate Island Adventure, a Python-based CLI game where you can experience the life of a pirate crew attacking islands and earning treasures!
 
-Game Description
 In this game, you take on the role of a pirate crew commander. Your goal is to select islands to attack, assign crew members, and maximize your earnings. The game offers two modes of play:
 
 Mode 1: Select islands to attack based on potential earnings per pirate. You can also calculate potential earnings for different crew configurations.
+
 Mode 2: Simulate a day of pirate activities by randomly selecting islands to attack and assigning crew members. You can simulate multiple days and see the results of each day's attack.
 
 # Installation
